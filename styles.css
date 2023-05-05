@@ -1,3 +1,13 @@
-html {
-    background-color: ghostwhite
+#page {
+    background-color: lightpink;
+    text-align: center;
+}
+.homepage-title {
+    color: black;
+    font-weight: bold;
+    
+}
+
+ul,ol {
+    text-align: left;
 }
