@@ -1,13 +1,18 @@
 #page {
-    background-color: lightpink;
+    background-color: #ffd9d9;
     text-align: center;
 }
 .homepage-title {
-    color: black;
-    font-weight: bold;
+    color: #8a360f;
+    font-weight: 800;
     
 }
 
 ul,ol {
     text-align: left;
 }
+
+.avatar.proportioned {
+    width: 300px;
+    height: 300px;
+    }
